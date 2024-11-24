@@ -2,7 +2,7 @@
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/xora.git
+git clone https://github.com/JONNYDAN/UI---React.git
 cd xora
 ```
 
